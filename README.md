@@ -7,3 +7,8 @@
 ### Testing pull, fetch & merge
 
 ### Merge branch 
+
+A
+B
+C
+D
