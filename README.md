@@ -3,8 +3,6 @@
 ### Practice of Git commands
 
 ### Working Directory
-
-### Testing pull
-
+### Testing pull, fetch & merge
 
 
