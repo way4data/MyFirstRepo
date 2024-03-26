@@ -9,3 +9,4 @@
 ### Merge branch 
 
 A
+B
